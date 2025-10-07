@@ -1,0 +1,7 @@
+.env
+nb/*
+prompt*
+README*
+*.json
+node_modules/
+version.js
